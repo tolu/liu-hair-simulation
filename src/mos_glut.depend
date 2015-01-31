@@ -1,0 +1,270 @@
+# depslib dependency file v1.0
+1206379188 source:c:\users\tobias\desktop\nehe\hair\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	"Physics.h"
+	<stdio.h>
+	<string.h>
+
+1186182136 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1186182136 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1186182137 c:\mingw\include\winuser.h
+
+1186182136 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1186182136 c:\mingw\include\winerror.h
+
+1186182506 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1186182503 c:\mingw\include\_mingw.h
+
+1186182115 c:\mingw\include\basetsd.h
+
+1186182129 c:\mingw\include\pshpack4.h
+
+1186182128 c:\mingw\include\poppack.h
+
+1186182137 c:\mingw\include\winver.h
+
+1186182116 c:\mingw\include\dde.h
+
+1186182116 c:\mingw\include\dlgs.h
+
+1186182116 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1186182128 c:\mingw\include\prsht.h
+
+1186182136 c:\mingw\include\windef.h
+	<winnt.h>
+
+1186182135 c:\mingw\include\wincon.h
+
+1186182135 c:\mingw\include\winbase.h
+
+1186182136 c:\mingw\include\wingdi.h
+
+1186182136 c:\mingw\include\winnls.h
+
+1186182136 c:\mingw\include\winnetwk.h
+
+1186182136 c:\mingw\include\winreg.h
+
+1186182137 c:\mingw\include\winsvc.h
+
+1186182115 c:\mingw\include\cderr.h
+
+1186182116 c:\mingw\include\ddeml.h
+
+1186182119 c:\mingw\include\imm.h
+
+1186182124 c:\mingw\include\lzexpand.h
+
+1186182125 c:\mingw\include\mmsystem.h
+
+1186182125 c:\mingw\include\nb30.h
+
+1186182130 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1186182130 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1186182115 c:\mingw\include\basetyps.h
+
+1186182130 c:\mingw\include\rpcdcep.h
+
+1186182131 c:\mingw\include\rpcnsi.h
+
+1186182131 c:\mingw\include\rpcnterr.h
+
+1186182504 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1186182132 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1186182128 c:\mingw\include\pshpack2.h
+
+1186182136 c:\mingw\include\winperf.h
+
+1186182116 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1186182133 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1186182126 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1186182138 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1186182130 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1186182131 c:\mingw\include\rpcnsip.h
+
+1186182137 c:\mingw\include\winspool.h
+
+1186182137 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1186182137 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1186182125 c:\mingw\include\mswsock.h
+
+1186182127 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1186182126 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1186182506 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1186182126 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1186182115 c:\mingw\include\cguid.h
+
+1186182127 c:\mingw\include\olectlid.h
+
+1186182127 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1186182126 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1186182128 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1205780250 c:\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1186182139 c:\mingw\include\gl\gl.h
+
+1186182139 c:\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1206394668 c:\users\tobias\desktop\nehe\hair\physics.h
+	<math.h>
+	<fstream>
+	"Vector3D.h"
+	<cstdlib>
+	<ctime>
+
+1186182505 c:\mingw\include\math.h
+	<_mingw.h>
+
+1206378142 c:\users\tobias\desktop\nehe\hair\vector3d.h
+	<math.h>
+
+1186182506 c:\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1186182509 c:\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1205830632 c:\users\tobias\desktop\nehe\hair\matrix_3x3.h
+	"Vector3D.h"
+
+1206441249 source:c:\users\tobias\workspace\code_blocks\mosprojekt - hair\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	"Physics.h"
+	<stdio.h>
+	<string.h>
+
+1206450888 c:\users\tobias\workspace\code_blocks\mosprojekt - hair\physics.h
+	<math.h>
+	<fstream>
+	"Vector3D.h"
+	<cstdlib>
+	<ctime>
+
+1206378142 c:\users\tobias\workspace\code_blocks\mosprojekt - hair\vector3d.h
+	<math.h>
+
