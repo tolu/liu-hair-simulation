@@ -28,3 +28,6 @@ Resources
 [Rotation about an Arbitrary Axis](http://pratt.siggraph.org/education/materials/HyperGraph/modeling/mod_tran/3drota.htm#Rotation%20about%20an%20Arbitrary%20Axis)
 
 
+## License
+
+MIT @ https://tolu.mit-license.org/
